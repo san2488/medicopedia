@@ -1,0 +1,39 @@
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\bin\BusinessLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\bin\BusinessLayer.pdb
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\bin\DataClassLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\bin\DomainClassLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\bin\DomainClassLayer.pdb
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\bin\DataClassLayer.pdb
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v0.7\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\bin\BusinessLayer.dll
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\bin\BusinessLayer.pdb
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\bin\DataClassLayer.dll
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\bin\DomainClassLayer.dll
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\bin\DomainClassLayer.pdb
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\bin\DataClassLayer.pdb
+E:\CaseStudy final\Medicopedia v0.7\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\BusinessLayer.dll
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\BusinessLayer.pdb
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DataClassLayer.dll
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DomainClassLayer.dll
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DomainClassLayer.pdb
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DataClassLayer.pdb
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\BusinessLayer.dll
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\BusinessLayer.pdb
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DataClassLayer.dll
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DomainClassLayer.dll
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DomainClassLayer.pdb
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\bin\DataClassLayer.pdb
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Sujay\CaseStudy\Medicopedia v1.0\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Sujay\CaseStudy\Medicopedia v1.0\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v1.0\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\BusinessLayer\obj\Debug\BusinessLayer.pdb

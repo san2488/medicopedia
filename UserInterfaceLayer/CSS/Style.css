@@ -1,0 +1,74 @@
+﻿
+#BnL
+{
+	position:relative;	
+	height:50px;
+}
+
+#navipan
+{
+	position:relative;
+
+	height:25px;
+}
+
+#contents
+{
+	position:relative;
+	
+}
+#content
+{
+	position:relative;
+	
+}
+
+#Medicine 
+{
+	position:relative;
+	/*left:50px;
+	top:50px;*/
+	width:785px;
+    top: 0px;
+    left: 0px;
+}
+
+#Medicine1, #Medicine2, #Medicine3, #Medicine4, #Medicine5, #Medicine6, #Medicine7, #Medicine8, #Medicine9, #Medicine10
+{
+	position:relative;
+	height:30px;
+}
+
+#Medicine2, #Medicine3, #Medicine4, #Medicine5, #Medicine6, #Medicine7, #Medicine8, #Medicine9, #Medicine10
+{
+	visibility:hidden;
+}
+
+#SnR
+{
+	position:absolute;
+	top:100px;
+	width:900px;
+}
+
+#MedicineHeader
+{
+	width:750px;
+}
+
+#SnE
+{
+	position:relative;
+	left:100px;
+	top:50px;
+	width:100px;
+}
+
+#prescribedmedi
+{
+	position:relative;
+	top:50px;
+	left:100px;
+}
+
+

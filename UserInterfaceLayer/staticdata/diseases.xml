@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<diseases>
+  <disease><name>Allergies</name></disease>
+  <disease><name>Alzheimer's</name></disease>
+  <disease><name>Arthritis</name></disease>
+  <disease><name>Asthma</name></disease>
+  <disease><name>Blood Pressure</name></disease>
+  <disease><name>Cancer</name></disease>
+  <disease><name>Cholesterol</name></disease>
+  <disease><name>Chronic Pain</name></disease>
+  <disease><name>Cold &amp; Flu</name></disease>
+  <disease><name>Depression</name></disease>
+  <disease><name>Diabetes</name></disease>
+  <disease><name>Dictionary</name></disease>
+  <disease><name>Digestion</name></disease>
+  <disease><name>Eyesight</name></disease>
+  <disease><name>Health &amp; Living</name></disease>
+  <disease><name>Healthy Kids</name></disease>
+  <disease><name>Hearing &amp; Ear</name></disease>
+  <disease><name>Heart Disease</name></disease>
+  <disease><name>HIV/AIDS</name></disease>
+  <disease><name>Infectious Disease</name></disease>
+  <disease><name>Lung Conditions</name></disease>
+  <disease><name>Medications</name></disease>
+  <disease><name>Menopause</name></disease>
+  <disease><name>Men's Health</name></disease>
+  <disease><name>Mental Health</name></disease>
+  <disease><name>Migraine</name></disease>
+  <disease><name>Neurology</name></disease>
+  <disease><name>Oral Health</name></disease>
+  <disease><name>Pregnancy</name></disease>
+  <disease><name>Senior Health</name></disease>
+  <disease><name>Sexual Health</name></disease>
+  <disease><name>Skin Disease</name></disease>
+  <disease><name>Sleep</name></disease>
+  <disease><name>Thyroid</name></disease>
+  <disease><name>Travel Health</name></disease>
+  <disease><name>Women's Health</name></disease>
+</diseases>

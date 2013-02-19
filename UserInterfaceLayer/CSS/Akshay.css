@@ -1,0 +1,51 @@
+﻿.CommentList
+{
+	list-style-type: none;
+}
+
+.PostCommentlabel
+{
+	font-family: Arial;
+	color: #000000;
+}
+.PostCommenttext
+{
+	background-color: #99FFCC;
+}
+.VoteAndCommentAreaOfInterest
+{
+
+	font-size: large;
+}
+.VoteAndCommentPosted
+{
+	font-size: x-small;
+}
+.VoteAndCommentPostedBy
+{
+	font-size: x-small;
+	font-weight: bold;
+	
+}
+.VoteAndCommentLabelAdvice
+{
+	font-weight: bold;
+	}
+.VoteAndCommentQuerySection
+{
+	color: #666666;
+}
+
+.VoteAndCommentAdviceSection
+{
+	color: #808080;
+}
+.UserHomePosted
+{
+	color: #C0C0C0;
+}
+.UserHomeAdviceTitle
+{
+	font-size: large;
+	text-decoration: underline;
+}

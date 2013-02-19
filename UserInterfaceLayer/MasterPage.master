@@ -1,0 +1,137 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<%@ Register Src="LoginControl.ascx" TagName="LoginControl" TagPrefix="uc1" %>
+<%@ Register Src="DiseaseList.ascx" TagName="DiseaseList" TagPrefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Medicopedia</title>
+    <link href="stylesheets/globalstyle.css" type="text/css" rel="Stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server" id="frmMaster">
+    <div id="wrapper">
+        <div id="header-wrapper">
+            <div id="header">
+                <div id="logo">
+                    <h1>
+                        <a href="#">MedicoPedia </a>
+                    </h1>
+                    <p>
+                        The Health Network
+                    </p>
+                </div>
+                <div id="menu">
+                    <ul>
+                        <li><a href="index.aspx">Home</a></li>
+                        <li>
+                            <asp:LoginStatus ID="logStatusMaster" runat="server" 
+                                OnLoggedOut="logStatusMaster_LoggedOut" LogoutPageUrl="~/Logout.aspx" />
+                        </li>
+                        <li><a href="AboutUs.aspx">About</a></li>
+                        <li><a href="Registration.aspx">Register</a></li>
+                        <li><a href="Contact.aspx">Contact</a></li>
+                        <li><a href="Links.aspx">Links</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- end #header -->
+        <div id="page">
+            <% if (Session["Role"].ToString() != "2")
+               { %>
+            <div id="interestlist">
+                <asp:DropDownList ID="ddlInterestList" runat="server" CssClass="ddlinterest" AutoPostBack="True"
+                    OnSelectedIndexChanged="ddlInterestList_SelectedIndexChanged">
+                </asp:DropDownList>
+            </div>
+            <%} %>
+            <div id="page-bgtop">
+                <div id="page-bgbtm">
+                    <div id="content">
+                        <div class="pgheader">
+                            <%=cphMain.Page.Title %>
+                        </div>
+                        <div style="padding: 2px">
+                            <asp:ContentPlaceHolder ID="cphMain" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                    <!-- end #content -->
+                    <div id="sidebar">
+                        <ul>
+                            <li>
+                                <div id="search">
+                                    <div>
+                                        <asp:LoginView ID="LoginView1" runat="server">
+                                            <LoggedInTemplate>
+                                                <h4>
+                                                    <asp:LoginName ID="logName" runat="server" FormatString="Welcome {0}!"/>
+                                                </h4>
+                                            </LoggedInTemplate>
+                                            <AnonymousTemplate>
+                                                <ul>
+                                                    <li><a href="Login.aspx">Login to MedicoPedia</a></li>
+                                                    <li><a href="Registration.aspx">Sign Up</a></li>
+                                                </ul>
+                                            </AnonymousTemplate>
+                                        </asp:LoginView>
+                                    </div>
+                                </div>
+                                <div style="clear: both;">
+                                    &nbsp;</div>
+                            </li>
+                                <%if (Session["Role"].ToString() == "1")
+                                  { %>
+                            <li>
+                                <ul>
+                                    <li><a href="DoctorHome.aspx">Doctor Home</a></li>
+                                </ul>
+                            </li>
+                                <%} %>
+                                <%if (Session["Role"].ToString() == "0")
+                                  { %>
+                            <li>
+                                <ul>
+                                    <li><a href="UserHome.aspx">User Home</a></li>
+                                    <li><a href="Search.aspx">Search Advices</a></li>
+                                    <li><a href="QueryHistory.aspx">Query History</a></li>
+                                    <li><a href="SubmitQuery.aspx">Submit Query</a></li>
+                                </ul>
+                            </li>
+                                <%} %>
+                                <%if (Session["Role"].ToString() == "2")
+                                  { %>
+                            <li>
+                                <ul>
+                                    <li><a href="AdminHome.aspx">Admin Home</a></li>
+                                </ul>
+                            </li>
+                                <%} %>
+                            <li>
+                                <h2>
+                                    Health Tip of the Day</h2>
+                                <asp:Label ID="lblMedTips" runat="server" Text="">
+                                    Work in office only from 9pm to 5pm. Research shows that people strictly following office timing rules live upto 30% longer.</asp:Label>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- end #sidebar -->
+                    <div style="clear: both;">
+                        &nbsp;</div>
+                </div>
+            </div>
+        </div>
+        <!-- end #page -->
+    </div>
+    <div id="footer">
+        <p>
+            &copy; 2011 Medicopedia.tcs.com.<br />
+            All rights reserved.</p>
+    </div>
+    <!-- end #footer -->
+    </form>
+</body>
+</html>

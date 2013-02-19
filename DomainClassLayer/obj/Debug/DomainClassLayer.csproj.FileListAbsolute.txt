@@ -1,0 +1,30 @@
+D:\Sujay\CaseStudy\Medicopedia v0.7\DomainClassLayer\bin\DomainClassLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v0.7\DomainClassLayer\bin\DomainClassLayer.pdb
+D:\Sujay\CaseStudy\Medicopedia v0.7\DomainClassLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Sujay\CaseStudy\Medicopedia v0.7\DomainClassLayer\obj\Debug\DomainClassLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v0.7\DomainClassLayer\obj\Debug\DomainClassLayer.pdb
+E:\CaseStudy final\Medicopedia v0.7\DomainClassLayer\bin\DomainClassLayer.dll
+E:\CaseStudy final\Medicopedia v0.7\DomainClassLayer\bin\DomainClassLayer.pdb
+E:\CaseStudy final\Medicopedia v0.7\DomainClassLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\CaseStudy final\Medicopedia v0.7\DomainClassLayer\obj\Debug\DomainClassLayer.dll
+E:\CaseStudy final\Medicopedia v0.7\DomainClassLayer\obj\Debug\DomainClassLayer.pdb
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\bin\DomainClassLayer.dll
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\bin\DomainClassLayer.pdb
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\obj\Debug\DomainClassLayer.dll
+C:\Users\Anand\Desktop\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\obj\Debug\DomainClassLayer.pdb
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\bin\DomainClassLayer.dll
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\bin\DomainClassLayer.pdb
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\obj\Debug\DomainClassLayer.dll
+D:\Sujay\CaseStudy\GroupFiles\Medicopedia v0.9 - Akkis replaced\Medicopedia v0.9 - Akkis replaced\DomainClassLayer\obj\Debug\DomainClassLayer.pdb
+D:\Sujay\CaseStudy\Medicopedia v1.1\DomainClassLayer\bin\DomainClassLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v1.1\DomainClassLayer\bin\DomainClassLayer.pdb
+D:\Sujay\CaseStudy\Medicopedia v1.1\DomainClassLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Sujay\CaseStudy\Medicopedia v1.1\DomainClassLayer\obj\Debug\DomainClassLayer.dll
+D:\Sujay\CaseStudy\Medicopedia v1.1\DomainClassLayer\obj\Debug\DomainClassLayer.pdb
+C:\Users\387822\Desktop\Medicopedia v1.1.1\Medicopedia v1.1\DomainClassLayer\bin\DomainClassLayer.dll
+C:\Users\387822\Desktop\Medicopedia v1.1.1\Medicopedia v1.1\DomainClassLayer\bin\DomainClassLayer.pdb
+C:\Users\387822\Desktop\Medicopedia v1.1.1\Medicopedia v1.1\DomainClassLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\387822\Desktop\Medicopedia v1.1.1\Medicopedia v1.1\DomainClassLayer\obj\Debug\DomainClassLayer.dll
+C:\Users\387822\Desktop\Medicopedia v1.1.1\Medicopedia v1.1\DomainClassLayer\obj\Debug\DomainClassLayer.pdb
